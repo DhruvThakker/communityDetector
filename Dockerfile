@@ -1,4 +1,4 @@
-FROM centos:7
+FROM python:3
 
 RUN apt-get install python3
 WORKDIR /usr/src/app
