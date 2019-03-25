@@ -1,0 +1,4 @@
+infomap===1.0.0b47
+networkx===2.2
+scipy===1.2.1
+numpy===1.16.2
